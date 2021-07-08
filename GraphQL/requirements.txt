@@ -1,0 +1,7 @@
+django
+graphene-django
+django-filter
+django-graphql-jwt
+django-multiselectfield
+Pillow
+graphene-file-upload

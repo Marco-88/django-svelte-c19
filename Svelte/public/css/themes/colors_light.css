@@ -1,0 +1,27 @@
+:root {
+    --primary: #32001F;
+    --primary-hover: #530034;
+    --primary-form-label: #9c0060;
+
+    --btn-edit: #c7c40b;
+    --btn-edit-hover: #97a40b;
+
+    --btn-delete: #d7242b;
+    --btn-delete-hover: #97242b;
+
+    --btn-cancel: #810509;
+    --btn-cancel-hover: #9b0f19;
+
+    --background: #ddd;
+    --background-component: #eee;
+
+    --color: #111;
+    --color-component: #222;
+    --color-component-info: #444;
+
+    --bg-msg-error: #ab7777;
+    --bg-msg-success: #77ab77;
+    --bg-msg-info: #888;
+
+    --color-msg: #fff;
+}

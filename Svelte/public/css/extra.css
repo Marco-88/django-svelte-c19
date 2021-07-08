@@ -1,0 +1,65 @@
+:root {
+    --primary: #32001F !important;
+    --primary-hover: #530034;
+    --primary-form-label: #9c0060;
+    --primary-nav-hover: #2b001c;
+
+    --link: #8e008f;
+    --link-hover: #a100a2;
+    --link-visited: #730073;
+
+    --btn-edit: #c7c40b;
+    --btn-edit-hover: #97a40b;
+
+    --btn-delete: #880000;
+    --btn-delete-hover: #bb0000;
+
+    --btn-cancel: #770000;
+    --btn-cancel-hover: #aa0000;
+
+    --success: #098809 !important;
+    --success-hover: #22aa22;
+
+    --background: #000;
+    --background-list-item: #0d0d0d;
+    --background-component: #0d0d0d;
+    --background-component-hover: #131313;
+    --background-component-modal: #222;
+
+    --color: #ddd;
+    --color-component: #ccc;
+    --color-component-info: #999;
+
+    --bg-msg-error: #ab7777;
+    --bg-msg-success: #77ab77;
+    --bg-msg-info: #999;
+    --color-msg: #000;
+
+    --background-disabled: #666;
+    --color-disabled: #999;
+
+    --search-height: 1.7rem;
+
+    --cov19-color-header: #cc00cc;
+    --cov19-bg-header: #080808;
+
+    --cov19-all-cases: #aaaa00;
+    --cov19-all-today-cases: #cccc00;
+    --cov19-all-deaths: #aa0000;
+    --cov19-all-today-deaths: #cc0000;
+    --cov19-all-recovered: #00aa00;
+    --cov19-all-active: #0000aa;
+    --cov19-all-critical: #aa6600;
+
+    --cov19-bg-new-cases: #7F7F00;
+    --cov19-bg-new-deaths: #7F0000;
+    --cov19-bg-closed-recovered: #005500;
+    --cov19-bg-closed: #333;
+
+    --cov19-chart-color-1: #aa0000;
+    --cov19-chart-color-2: #00aa00;
+    --cov19-chart-color-3: #0000aa;
+    --cov19-chart-color-4: #aaaa00;
+    --cov19-chart-color-5: #aa00aa;
+    --cov19-chart-color-6: #00aaaa;
+}
